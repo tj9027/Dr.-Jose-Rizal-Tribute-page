@@ -1,0 +1,46 @@
+body{
+  background-color: hsl(30,69.7%,79.9%);
+  font-family:open-sans,sans-serif;
+}
+p{
+  text-indent:25px;
+}
+main{
+  max-width:80%;
+}
+#title{
+ text-align:center;
+  font-size: 3em;
+}
+#img-div{
+  display:block;
+  margin:auto;
+  width:80%;
+  background-color: grey;
+  border-radius: 15px;
+  position:relative;
+}
+#image{
+  position:relative;
+  display: block;
+  max-width: 90%;
+  margin:auto;
+  padding-top: 30px;
+}
+#img-caption{
+  text-align:center;
+  padding: 20px;
+  color: white;
+}
+h2{
+  text-align:center;
+  padding: 10px;
+  margin: 10px;
+}
+li{
+  line-height: 1.5em;
+}
+strong{
+  text-align: center;
+  padding: 35px;
+}
